@@ -1,0 +1,13 @@
+#define TB_loadingScreen_imagePath "tb_loadingScreen_Operation_Titoli.jpg"
+
+author = "Cole. Maintained by: TacBF Team.";
+onLoadName="Operation Titoli";
+overviewPicture = "tb_loadingScreen_Operation_Titoli.jpg";
+onLoadMission="Tactical Battlefield: <t color='#FF00A5A5'>Advance and Secure (A&amp;S)</t><br />Desert, rural towns.<br /><t color='#FF00AEFF'>US</t> = light vehicles. FOs, MWs.<br /><t color='#FFD66361'>INS</t> = light vehicles. HOs, MWs.";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"
+#include "tb_vehicleMags.hpp"
